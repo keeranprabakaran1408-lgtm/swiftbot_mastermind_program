@@ -30,4 +30,4 @@ To run it on a SwiftBot:
 ## Files
 
 - `task1.java` — the full game including all logic, image processing, scanning, logging and SwiftBot control
-## Videos will be attached after examination
+
